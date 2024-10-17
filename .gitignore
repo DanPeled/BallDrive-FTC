@@ -79,3 +79,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+.project
+.settings
+FtcRobotController/.classpath
+TeamCode/.classpath
